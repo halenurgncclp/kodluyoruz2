@@ -1,0 +1,16 @@
+body {
+    background-color: lightgrey;
+}
+.p-color {
+    font-style:inherit;color: black;
+}
+img{
+    display: block; margin: auto;width: 400px;height: 300px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: large;color: brown;
+}
+#align {
+    list-style-position:inside;
+    text-align: center;
+}
