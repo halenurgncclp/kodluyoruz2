@@ -1,0 +1,78 @@
+input{
+    height: 15px;
+    width: 300px;
+    display: block; 
+    margin: -10px 0px 0px 550px;
+}
+.button{
+    margin: auto; 
+}
+image{
+    display: block; 
+    margin: auto;
+}
+.ilk{
+    height: 70px;
+    width: 1400px;
+    margin: 5px 30px 5px 30px;
+    background-color:whitesmoke;
+}
+#first{
+    margin-left: 590px; 
+}
+.block{
+    margin: center;
+    float: left;
+}
+#one{
+    background-color: lightseagreen;
+    height: 80px;
+    width: 500px;
+    text-align: center;
+    margin-left: 85px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+#two{
+    background-color: turquoise;
+    height: 80px;
+    width: 300px;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 5px;
+    font-size: small;
+}
+#three{
+    background-color: teal;
+    height: 80px;
+    width: 500px;
+    text-align: center;
+    margin-right: 5px;
+    margin-top: 5px;
+    font-size: small;
+}
+#email{
+    height: 15px;
+    width: 150px;
+    display: block; 
+    margin: auto;
+}
+.yazi{
+    margin-top: 0px;
+}
+.buton2{
+    margin-left: 180px;  
+    float: left;
+    margin-bottom:  20px;
+}
+#buton2{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+footer{
+    position: relative;
+    margin-top: 100px;
+    margin-left: 650px;
+    font-size: small;
+}
+
