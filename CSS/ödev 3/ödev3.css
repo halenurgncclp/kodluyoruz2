@@ -1,0 +1,115 @@
+.block1{
+    float: left;
+    margin-left: 1360px;
+    margin-top: 0px;
+}
+#button{
+    height: 15px;
+    width: 15px;
+    margin-left: 5px;
+}
+#resim{
+    height: 18px;
+    width: 18px;
+}
+.block2{
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 500px;
+    width: 600px;
+    height: auto; 
+    text-align: center;
+}
+#logo{
+    width: 300px;
+    display: block;
+    margin-left: 130px;
+    margin-right: auto;
+}
+input{
+    width: 480px;
+    height: 30px;
+    display: block;
+    margin-left: 40px;
+    outline: none;
+    border-style:hidden;
+}
+.block3{
+    display: flex;
+    margin: auto;
+    width: auto;
+    height: auto;
+    position: absolute;
+    margin-top: 20px;
+    float: left;
+    border-style: solid;
+    border-radius: 20px;
+    border-width: 1px;
+}
+#buton1{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    background-color: white;
+    border-style: hidden;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#ikon{
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+} 
+.block4{
+    float:end;
+    margin-top: 70px;
+    margin-left: -35px;
+}
+#buton2{
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+#buton3{
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 40px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+}
+.footer li{
+    float: left;
+    list-style-type: none;
+}
+.footer a{
+    display: block;
+  color: #70757a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  margin-left: 14px;
+  margin-right: -20px;
+}
+.footer a:hover {
+    text-decoration: underline;
+  }
