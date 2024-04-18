@@ -1,0 +1,28 @@
+body {
+    background-color: #e9ecef;
+}
+.p-color {
+    font-style:inherit;color: black;
+}
+img{
+    display: block; margin: auto;width: 400px;height: 300px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: large;color: darkblue;
+}
+#align {
+    list-style-position:inside;
+    text-align: center;
+}
+.card{
+    float:left;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px;
+}
+#card2{
+    text-align: center;
+    margin-left: 720px;
+    display: block;
+}
